@@ -38,7 +38,7 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
 - ✔️ GIF size reduction
 - ✔️ Custom fonts support<sup>2</sup> <sup>3</sup>
 - ✔️ Transparent GIF support
-- ✔️ [Program Showcase](https://youtube.com/watch?v=https://youtu.be/iif5aZa58jQ) ([Colab](https://youtube.com/watch?v=Uf-D2iEOvDU))
+- ✔️ [Program Showcase](https://youtube.com/watch?v=iif5aZa58jQ) ([Colab](https://youtube.com/watch?v=Uf-D2iEOvDU))
 - ❌ Get smaller FFmpeg build
 - ✔️ ~~GUI Version~~ Colab Notebook
 - ✔️ Emoji support<sup>3</sup>
